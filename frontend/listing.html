@@ -1,0 +1,80 @@
+<!-- BrickNest: Stylish Property Page (Same Logo & Hero as Homepage) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BrickNest - Property Detail</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jwt-decode@3.1.2/build/jwt-decode.min.js"></script>
+  <script src="listing.js" defer></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f9f9ff;
+      color: #222;
+    }
+    header {
+      background-color: #ffffff;
+      border-bottom: 1px solid #ddd;
+      padding: 16px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+    .logo-link {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #0d47a1;
+      text-decoration: none;
+    }
+    .logo-link:hover {
+      color: #1565c0;
+    }
+    #login-area {
+      font-size: 0.95rem;
+      color: #555;
+    }
+    .hero {
+      background: linear-gradient(to right, #ede7f6, #e1f5fe);
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+      color: #0d47a1;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+    }
+  </style>
+  <script>
+    window.addEventListener("DOMContentLoaded", () => {
+      const user = JSON.parse(localStorage.getItem("user") || "null");
+      if (user && document.getElementById("login-area")) {
+        document.getElementById("login-area").innerText = `Hi, ${user.name}`;
+      }
+    });
+  </script>
+</head>
+<body>
+  <header>
+    <a href="index.html" class="logo-link">🏡 BrickNest</a>
+    <div id="login-area"></div>
+  </header>
+
+  <section class="hero">
+    <h2>Property Details</h2>
+    <p>Learn more about this beautiful home</p>
+  </section>
+
+  <main>
+    <section id="listing-detail" class="listing-detail"></section>
+  </main>
+</body>
+</html>

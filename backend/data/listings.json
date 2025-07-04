@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "2BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b931 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 2,
+    "title": "3BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b932 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 3,
+    "title": "4BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b933 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 4,
+    "title": "5BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b934 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 5,
+    "title": "1BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b935 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 6,
+    "title": "2BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b936 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 7,
+    "title": "3BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b937 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 8,
+    "title": "4BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b938 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 9,
+    "title": "5BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b939 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 10,
+    "title": "1BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b940 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 11,
+    "title": "2BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b941 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 12,
+    "title": "3BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b942 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 13,
+    "title": "4BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b943 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 14,
+    "title": "5BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b944 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 15,
+    "title": "1BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b945 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 16,
+    "title": "2BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b946 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 17,
+    "title": "3BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b947 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 18,
+    "title": "4BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b948 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 19,
+    "title": "5BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b949 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 20,
+    "title": "1BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b950 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 21,
+    "title": "2BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b951 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 22,
+    "title": "3BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b952 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 23,
+    "title": "4BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b953 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 24,
+    "title": "5BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b954 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 25,
+    "title": "1BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b955 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 26,
+    "title": "2BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b956 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 27,
+    "title": "3BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b957 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 28,
+    "title": "4BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b958 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 29,
+    "title": "5BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b959 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 30,
+    "title": "1BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b960 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 31,
+    "title": "2BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b961 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 32,
+    "title": "3BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b962 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 33,
+    "title": "4BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b963 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 34,
+    "title": "5BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b964 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 35,
+    "title": "1BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b965 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 36,
+    "title": "2BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b966 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 37,
+    "title": "3BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b967 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 38,
+    "title": "4BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b968 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 39,
+    "title": "5BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b969 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 40,
+    "title": "1BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b970 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 41,
+    "title": "2BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b971 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 42,
+    "title": "3BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b972 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 43,
+    "title": "4BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b973 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 44,
+    "title": "5BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b974 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 45,
+    "title": "1BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b975 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 46,
+    "title": "2BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b976 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 47,
+    "title": "3BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b977 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 48,
+    "title": "4BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b978 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 49,
+    "title": "5BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b979 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 50,
+    "title": "1BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b980 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 51,
+    "title": "2BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b981 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 52,
+    "title": "3BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b982 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 53,
+    "title": "4BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b983 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 54,
+    "title": "5BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b984 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 55,
+    "title": "1BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b985 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 56,
+    "title": "2BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b986 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 57,
+    "title": "3BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b987 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 58,
+    "title": "4BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b988 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 59,
+    "title": "5BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b989 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 60,
+    "title": "1BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b990 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 61,
+    "title": "2BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b991 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 62,
+    "title": "3BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b992 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 63,
+    "title": "4BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b993 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 64,
+    "title": "5BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b994 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 65,
+    "title": "1BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b995 Lakhs",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 66,
+    "title": "2BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b996 Lakhs",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 67,
+    "title": "3BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b997 Lakhs",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 68,
+    "title": "4BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b998 Lakhs",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 69,
+    "title": "5BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b999 Lakhs",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 70,
+    "title": "1BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b92.60 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 71,
+    "title": "2BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b92.62 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 72,
+    "title": "3BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b92.64 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 73,
+    "title": "4BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b92.66 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 74,
+    "title": "5BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b92.68 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 75,
+    "title": "1BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b92.70 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 76,
+    "title": "2BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b92.72 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 77,
+    "title": "3BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b92.74 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 78,
+    "title": "4BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b92.76 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 79,
+    "title": "5BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b92.78 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 80,
+    "title": "1BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b92.80 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 81,
+    "title": "2BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b92.82 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 82,
+    "title": "3BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b92.84 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 83,
+    "title": "4BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b92.86 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 84,
+    "title": "5BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b92.88 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 85,
+    "title": "1BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b92.90 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 86,
+    "title": "2BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b92.92 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 87,
+    "title": "3BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b92.94 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 88,
+    "title": "4BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b92.96 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 89,
+    "title": "5BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b92.98 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 90,
+    "title": "1BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b93.00 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 91,
+    "title": "2BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b93.02 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1600585152915-d208bec867a3?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 92,
+    "title": "3BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b93.04 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 93,
+    "title": "4BHK Apartment in Hyderabad",
+    "location": "Hyderabad",
+    "price": "\u20b93.06 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 94,
+    "title": "5BHK Apartment in Pune",
+    "location": "Pune",
+    "price": "\u20b93.08 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1560448075-bb0bffc52c31?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 95,
+    "title": "1BHK Apartment in Chennai",
+    "location": "Chennai",
+    "price": "\u20b93.10 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1600607681817-3c31e49d636b?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 96,
+    "title": "2BHK Apartment in Delhi",
+    "location": "Delhi",
+    "price": "\u20b93.12 Cr",
+    "description": "Ideal for small families with all modern amenities.",
+    "image": "https://images.unsplash.com/photo-1598928506312-c1a9753fe7c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 97,
+    "title": "3BHK Apartment in Noida",
+    "location": "Noida",
+    "price": "\u20b93.14 Cr",
+    "description": "Spacious living with three bedrooms, suitable for mid-sized families.",
+    "image": "https://images.unsplash.com/photo-1622470953273-04f1c07b4805?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 98,
+    "title": "4BHK Apartment in Gurgaon",
+    "location": "Gurgaon",
+    "price": "\u20b93.16 Cr",
+    "description": "Luxury apartment with ample space and high-end fittings.",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a2f24?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 99,
+    "title": "5BHK Apartment in Mumbai",
+    "location": "Mumbai",
+    "price": "\u20b93.18 Cr",
+    "description": "Opulent property with top-tier facilities and large living space.",
+    "image": "https://images.unsplash.com/photo-1630000000000-d5b48f57b4c0?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 100,
+    "title": "1BHK Apartment in Bangalore",
+    "location": "Bangalore",
+    "price": "\u20b93.20 Cr",
+    "description": "Perfect for individuals or couples. Compact and convenient.",
+    "image": "https://images.unsplash.com/photo-1560184897-91aef9a4a9ef?auto=format&fit=crop&w=800&q=60"
+  }
+]
